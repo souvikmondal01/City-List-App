@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">City List</string>
+
+    <string name="city1">London</string>
+    <string name="city2">Tokyo</string>
+    <string name="city3">New York</string>
+    <string name="city4">Paris</string>
+    <string name="city5">Los Angeles</string>
+    <string name="city6">Singapore</string>
+    <string name="city7">Rome</string>
+    <string name="city8">Amsterdam</string>
+    <string name="grid">Grid</string>
+
+</resources>
